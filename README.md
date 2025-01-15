@@ -1,4 +1,4 @@
-# PDF Data Processing (Simplified)
+# PDF Data Processing 
 
 This project extracts text from PDF files and saves it into a single CSV file, 
 all in a straightforward, linear approach (no threading).
